@@ -1,0 +1,17 @@
+PRÁTICAS RECOMENDADAS PARA GARANTIR UMA BASE SÓLIDA PARA O SEU SITE
+
+Ao iniciar um novo projeto em HTML como um desenvolvedor iniciante, é importante ter em mente algumas dicas e práticas recomendadas para garantir uma base sólida para o seu site.
+
+Planejamento: Antes de começar a escrever qualquer código, dedique algum tempo para planejar a estrutura e o conteúdo do seu site. Isso inclui decidir sobre a hierarquia das páginas, a navegação e os elementos visuais que serão utilizados. Criar um esboço ou wireframe do layout do site pode ajudar a visualizar o resultado final e facilitar o processo de desenvolvimento.
+
+Aprenda o básico de HTML e CSS: Dominar o básico de HTML e CSS é essencial para criar um site funcional e atraente. HTML é a linguagem de marcação usada para estruturar o conteúdo de uma página, enquanto CSS é a linguagem de estilo usada para controlar a aparência dos elementos HTML. Focar em aprender as principais tags e propriedades de cada linguagem ajudará a construir uma base sólida para projetos futuros.
+
+Mantenha o código organizado e limpo: Escrever código HTML e CSS de maneira organizada e consistente facilita a manutenção e atualização do site no futuro. Isso inclui usar indentação adequada, comentários para explicar o propósito de blocos de código e nomes descritivos para classes e IDs. Além disso, separar o CSS do HTML em um arquivo externo (como style.css) é uma boa prática para manter o código mais organizado e fácil de entender.
+
+
+QUESTIONÁRIO
+
+Descrevam:
+Planejamento -
+Aprenda o básico de HTML e CSS-
+Mantenha o código organizado e limpo -
